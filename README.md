@@ -1,4 +1,3 @@
-Much Love! My name is Skwid, and I want to see if I can help the world. I work 7 days a week in the food industry as a chef, shhh, don't let them find out :)
 
 # **Sovereign Food Pod (SFP)**  
 ### *A Net‑Positive, Closed‑Loop, Autonomous Food Production System*
@@ -174,3 +173,5 @@ CERN‑OHL‑S
 
 The Sovereign Food Pod is a blueprint for a world where **food, water, and energy are locally produced, circular, and resilient**.  
 It is a step toward **post‑scarcity infrastructure**, deployable anywhere—from urban rooftops to disaster zones to off‑grid communities.
+Much Love! My name is Skwid, and I want to see if I can help the world. I work 7 days a week in the food industry as a chef, shhh, don't let them find out :)
+
