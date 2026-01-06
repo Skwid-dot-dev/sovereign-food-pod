@@ -1,3 +1,4 @@
+Much Love! My name is Skwid, and I want to see if I can help the world. I work 7 days a week in the food industry as a chef, shhh, don't let them find out :)
 
 # **Sovereign Food Pod (SFP)**  
 ### *A Net‑Positive, Closed‑Loop, Autonomous Food Production System*
